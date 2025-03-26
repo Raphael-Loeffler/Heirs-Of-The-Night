@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "heirs-of-the-night:item/vamalia_ruby"
+  }
+}
